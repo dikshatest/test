@@ -1,2 +1,2 @@
 import pygame
-x = "This is another test"
+x = "This is not a test"
